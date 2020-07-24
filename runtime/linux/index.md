@@ -20,6 +20,7 @@ To install OpenPLC type these lines on the terminal:
 git clone https://github.com/thiagoralves/OpenPLC_v3.git
 cd OpenPLC_v3
 ./install.sh linux
+sudo ./start_openplc.sh
 ```
 ​
 The installation process will take a while (up to 1 hour depending on your
