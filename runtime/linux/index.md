@@ -31,6 +31,7 @@ The OpenPLC runtime has a built-in webserver that you can access. While OpenPLC
 runtime is running, open your browser and type:
 
 ```
+sudo ./start_openplc.sh
 localhost:8080
 ```
 ​
